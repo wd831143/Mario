@@ -108,7 +108,7 @@ public class GameFrame extends JFrame{
 //			}
 //		}).start();
 	}
-
+	//重写
 	@Override
 	public void paint(Graphics g) {
 		//利用双缓冲画背景图片和马里奥
